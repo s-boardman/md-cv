@@ -12,9 +12,11 @@ Clinical Bioinformatician
 
 ## Currently
 
-I am in my final year of the NHS Scientist Training Programme, specialising in Bioinformatics (Genomics). In my day-to-day role I run and develop diagnostic pipelines for processing patient samples within the Genomic Diagnostics Laboratory. I develop in Python and Perl, collaborating with other bioinformaticians and geneticists to continuously improve patient care provided by the department.
+I am in my final year of the NHS Scientist Training Programme, specialising in Bioinformatics (Genomics). In my day-to-day role I run and develop diagnostic pipelines for processing patient samples within the Genomic Diagnostics Laboratory. I develop in Python and Perl working in collaboration with other clinical bioinformaticians to create and maintain scientific software for clinical use. A key part of my job is communicating results to genetics clinical scientists and working in multi-disciplinary teams to design and implement new tests to improve the services available to patients.
 
-My main project is the design and validation of a pipeline for copy number variation detection using low level whole genome sequencing.
+My main project is the design and validation of a pipeline for copy number variation detection using low level whole genome sequencing. 
+
+I also work with academic collaborators on bespoke research projects. This demands a heuristic and well documented approach is required to deliver reliable reproducible results at forefront of translational genomics.
 
 ## Employment
 
@@ -29,12 +31,15 @@ Lead for Public Health England bioinformatics collaboration.
 `2012-13`
 __Yorkshire Regional Genetics Laboratory__ Pre-Registration Clinical Scientist
 
-Designed and validated qPCR service for confirmation testing of clinical samples.
+Designed and validated qPCR service for CNV detection in clinical samples.
 
+Played an active role developing targeted gene panel for autosomal recessive non-syndromic hearing loss patients.
 
 
 `2011-12`
 __Illumina, Saffron Walden__ Research Associate in Production Sequencing.
+
+Member of productions sequencing team validating new protocols before customer use.
 
 ## Education
 
