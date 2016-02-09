@@ -60,15 +60,14 @@ body {
 	font-family: "Open sans", sans-serif;
 	margin-top: 1em;
 	margin-left: 1em;
-	width: 80%;
 }
 
 p {
 	position: relative;
-	left: 40%;
+	left: 25%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
-	width: 50%;
+	width: 70%;
 }
 
 code {
@@ -80,16 +79,16 @@ code {
 
 p code {
 	position: absolute;
-	left: -10%;
+	left: -15%;
 }
 
 
 ul {
 	position: relative;
-	left: 40%;
-	width: 60%;
+	left: 25%;
+	width: 70%;
 	margin-bottom: 1.5em;
-	margin-top: 1em;
+	margin-top: 0.5em;
   columns: 2;
   -webkit-columns: 2;
   -moz-columns: 2;
@@ -118,8 +117,8 @@ h1 {
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
-	margin-top: 2em;
-	left: 40%;
+	margin-top: 1em;
+	left: 25%;
 	/* padding: .1rem 1rem; */
   text-shadow: 1px 1px #fff,
       					1px 2px #ccc;
@@ -143,7 +142,7 @@ h2 {
 	position: relative;
 	top: 1.4em;
 	text-align: right;
-	width: 30%;
+	width: 12%;
 }
 
 h3 {
@@ -153,7 +152,7 @@ h3 {
 	position: relative;
 	top: 1.7em;
 	text-align: right;
-	width: 30%;
+	width: 12%;
 }
 
 a {
@@ -192,12 +191,12 @@ strong {
 }
 
 .footer {
-    -webkit-column-count: 3; /* Chrome, Safari, Opera */
-    -moz-column-count: 3; /* Firefox */
-    column-count: 3;
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
 		position: relative;
 		left: 25%;
-		margin-top: 2em;
+		margin-top: 1em;
 		margin-bottom: 7em;
 		margin-right: 0;
 		width: 65%;

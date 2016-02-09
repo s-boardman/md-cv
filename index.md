@@ -12,11 +12,13 @@ Clinical Bioinformatician
 
 ## Currently
 
-I am in my final year of the NHS Scientist Training Programme, specialising in Bioinformatics (Genomics). In my day-to-day role I run and develop diagnostic pipelines for processing patient samples within the Genomic Diagnostics Laboratory. I develop in Python and Perl working in collaboration with other clinical bioinformaticians to create and maintain scientific software for clinical use. A key part of my job is communicating results to genetics clinical scientists and working in multi-disciplinary teams to design and implement new tests to improve the services available to patients.
+I am in my final year of the NHS Scientist Training Programme, specialising in Bioinformatics (Genomics). In my day-to-day role I run and develop diagnostic pipelines for processing patient samples within the Genomic Diagnostics Laboratory. I also work with academic collaborators on bespoke research projects. Typically this involves analysing data from exome sequencing.
 
-My main project is the design and validation of a pipeline for copy number variation detection using low level whole genome sequencing. 
+In collaboration with other clinical bioinformaticians I create and maintain scientific software for clinical use. The main languages I use are Python and Perl. A key part of my job is communicating results to genetics clinical scientists and working in multi-disciplinary teams to design and implement new tests to improve the services available to patients.
 
-I also work with academic collaborators on bespoke research projects. This demands a heuristic and well documented approach is required to deliver reliable reproducible results at forefront of translational genomics.
+My main project is the design and validation of a pipeline for copy number variation detection using low level whole genome sequencing. Implementing a novel technique has given me extensive experience evaluating software and developing new workflows which conform to ISO standards.
+
+As part of my training I completed an elective at the Haematology Molecular Diagnostics Service in Leeds Teaching Hospital Trust. I carried out a pilot study investigating the utility of targeted RNA-seq for expression analysis in Diffuse Large B-Cell Lymphoma patients.
 
 ## Employment
 
@@ -41,6 +43,8 @@ __Illumina, Saffron Walden__ Research Associate in Production Sequencing.
 
 Member of productions sequencing team validating new protocols before customer use.
 
+<DIV style="page-break-after:always"></DIV>
+
 ## Education
 
 `2013-16`
@@ -61,15 +65,21 @@ __University of Sheffield__ BSc Biology (_Upper Second Class Honours_)
 ### Posters
 
 `2014`
- _British Society of Genetic Medicine_ (Liverpool, UK)
+ __British Society of Genetic Medicine__ (Liverpool, UK)
+
+Design and Validation of Haloplex Targeted Sequencing for patients suffering Autosomal Recessive Non-Syndromic Hearing Loss
 
 `2012`
-_British Society of Human Genetics_ (Warwick, UK)
+__British Society of Human Genetics__ (Warwick, UK)
+
+Audit of Pathogenic Variations identified by Clinical Genetic Testing in the Bradford Pakistani Community
 
 ### Talks
 
 `2013`
-_Agilent User Group Meeting_ (Manchester, UK)
+__Agilent User Group Meeting__ (Manchester, UK)
+
+Design and Validation of Haloplex Targeted Sequencing for patients suffering Autosomal Recessive Non-Syndromic Hearing Loss
 
 
 ## Technical skills
