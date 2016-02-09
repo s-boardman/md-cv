@@ -95,7 +95,7 @@ Design and Validation of Haloplex Targeted Sequencing for Autosomal Recessive No
 ## Links
 
 <i class="fa fa-fort-awesome"></i> <a href="http://s-boardman.github.io">s-boardman.github.io</a><br />
-<i class="fa fa-github"></i> <a href="http://github.com/s_boardman">s_boardman</a><br />
+<i class="fa fa-github"></i> <a href="http://github.com/s-boardman">s-boardman</a><br />
 <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/users/1842478/s-boardman">s-boardman</a>
 
 ## References
