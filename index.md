@@ -10,18 +10,23 @@ Clinical Bioinformatician
 
 ## Currently
 
-I am in my final year of the NHS Scientist Training Programme, specialising in Bioinformatics (Genomics). In my day-to-day role I run and develop diagnostic pipelines for processing patient samples within the Genomic Diagnostics Laboratory. I also work with academic collaborators on bespoke research projects. Typically this involves analysing data from exome sequencing.
+I am a Clinical Scientist specialising in Bioinformatics (Genomics). In my day-to-day role I run and develop diagnostic pipelines for processing patient samples within the Leeds Genetics Laboratory. 
 
-In collaboration with other clinical bioinformaticians I create and maintain scientific software for clinical use. The main languages I use are Python and Perl. A key part of my job is communicating results to genetics clinical scientists and working in multi-disciplinary teams to design and implement new tests to improve the services available to patients.
+I work in collaboration with other clinical bioinformaticians to create and maintain scientific software for clinical use. The main languages I use are Python and Perl. A key part of my job is communicating results to genetics clinical scientists and working in multi-disciplinary teams to design and implement new tests to improve the services available to patients.
 
-My main project is the design and validation of a new pipeline for copy number variation detection using low level whole genome sequencing. Implementing a novel technique has given me extensive experience evaluating software and developing new workflows which conform to ISO standards.
-
-As part of my training I completed an elective at the Haematology Molecular Diagnostics Service in Leeds Teaching Hospital Trust. I carried out a pilot study investigating the utility of targeted RNA-seq for expression analysis in Diffuse Large B-Cell Lymphoma patients.
 
 ## Employment
 
-`2013-`
-__Manchester Centre for Genomic Medicine__ Trainee Clinical Scientist (Bioinformatis: Genomics)
+`2016-`
+__Leeds Genetics Laboratory__ Clinical Scientist (Bioinformatics: Genomics)
+
+Responsible for development and delivery of clinical bioinformatics services and working in collaboration with other Clinical Scientists to improve service delivery.
+
+Lead the provison of analytical pipelines and databases for Next Generation Sequencing testing.
+
+
+`2013-16`
+__Manchester Centre for Genomic Medicine__ Trainee Clinical Scientist (Bioinformatics: Genomics)
 
 Co-Lead of diagnostic bioinformatic pipelines - responsible for day to day processing of clinical samples, pipeline maintenance, and developing new features.
 
@@ -46,17 +51,17 @@ Member of productions sequencing team validating new protocols before customer u
 ## Education
 
 `2013-16`
-__University of Manchester__ MSc Healthcare Science (Clinical Bioinformatics: Genomics)
+__University of Manchester__ MSc Healthcare Science (Clinical Bioinformatics: Genomics) _Distinction_
 
 Thesis Title: Next Generation Copy Number Variation Detection: Implementing Low Level Whole Genome Sequencing as a Clinical Service
 
 `2009-10`
-__University of Nottingham__ MRes Molecular Evolution
+__University of Nottingham__ MRes Molecular Evolution _Pass_
 
 Thesis Title:  Heritability of Lateralised Behaviour in the Pond Snail *Lymnaea stagnalis*.
 
 `2006-09`
-__University of Sheffield__ BSc Biology (_Upper Second Class Honours_)
+__University of Sheffield__ BSc Biology _Upper Second Class Honours_
 
 ## Presentations
 
@@ -85,18 +90,12 @@ Design and Validation of Haloplex Targeted Sequencing for Autosomal Recessive No
 * NGS data analysis
 * Scientific software evelopment
 * UNIX
-* Python, Perl & R
+* Python, Perl & R programming
+* SQL database design
 * Git
 * Data visualisation
 * Cluster computing
 * NGS library preparation
-* qPCR
-
-## Links
-
-<i class="fa fa-fort-awesome"></i> <a href="http://s-boardman.github.io">s-boardman.github.io</a><br />
-<i class="fa fa-github"></i> <a href="http://github.com/s-boardman">s-boardman</a><br />
-<i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/users/1842478/s-boardman">s-boardman</a>
 
 ## References
 
@@ -104,4 +103,4 @@ Available on request.
 
 <!-- ### Footer
 
-Last updated: February 2016 -->
+Last updated: December 2016 -->
