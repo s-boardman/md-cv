@@ -4,15 +4,15 @@ title: [Simon Boardman's CV]
 #permalink:
 ---
 # Simon Boardman
-Clinical Bioinformatician
+Bioninformatics Clinical Scientist
 
 <i class="fa fa-envelope"></i> <a href="mailto:simon.boardman@gmail.com">simon.boardman@gmail.com</a>
 
 ## Currently
 
-I am a Clinical Scientist specialising in Bioinformatics (Genomics). In my day-to-day role I run and develop diagnostic pipelines for processing patient samples within the Leeds Genetics Laboratory. 
+I am a Clinical Scientist specialising in Bioinformatics (Genomics). In my day-to-day role I run and develop diagnostic pipelines for processing patient samples within the Leeds Genetics Laboratory.
 
-I work in collaboration with other clinical bioinformaticians to create and maintain scientific software for clinical use. The main languages I use are Python and Perl. A key part of my job is communicating results to genetics clinical scientists and working in multi-disciplinary teams to design and implement new tests to improve the services available to patients.
+I work in collaboration with other clinical bioinformaticians to create and maintain scientific software for clinical use. The main languages I use are Python and Perl. The key aspects of my job are communicating results to genetics Clinical Scientists, and working in multi-disciplinary teams to design and implement new tests improving the services available to patients.
 
 
 ## Employment
@@ -22,7 +22,7 @@ __Leeds Genetics Laboratory__ Clinical Scientist (Bioinformatics: Genomics)
 
 Responsible for development and delivery of clinical bioinformatics services and working in collaboration with other Clinical Scientists to improve service delivery.
 
-Lead the provison of analytical pipelines and databases for Next Generation Sequencing testing.
+Current projects include; building a Variant Database for analysing and storing results of NGS testing. Implementing a Primer Design Application in collaboration with another NHS Laboratory. Working in conjunction with Genomics England to receive and analyse results from the 100,000 Genomes Project.
 
 
 `2013-16`
@@ -91,10 +91,10 @@ Design and Validation of Haloplex Targeted Sequencing for Autosomal Recessive No
 * Scientific software evelopment
 * UNIX
 * Python, Perl & R programming
-* SQL database design
+* MySQL, PostgreSQL, and MSSQL databases
 * Git
 * Data visualisation
-* Cluster computing
+* High Performance Computing
 * NGS library preparation
 
 ## References
@@ -103,4 +103,4 @@ Available on request.
 
 <!-- ### Footer
 
-Last updated: December 2016 -->
+Last updated: September 2017 -->
